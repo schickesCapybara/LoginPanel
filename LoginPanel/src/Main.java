@@ -18,9 +18,7 @@ public class Main extends JFrame implements ActionListener {
 
         passwordHashMap.put("leon.schickedanz@gmail.com", "1234"); //not my real password lmao
         
-
         loginPanel();
-
     }
 
     @Override
